@@ -1,0 +1,57 @@
+.header{
+    box-shadow: 0 4px 13px -3px rgba(0, 0, 0, 0.10196);
+    border-bottom: 1px solid #d2d2d2;
+    flex: 0 0 auto;
+    z-index: 2;
+}
+.row1{
+    border-width: 3px 0 0;
+    border-top-style: solid;
+    border-image: linear-gradient(139deg, #fb8817, #ff4b01, #c12127, #e02aff) 3;
+    padding: 1rem;
+}
+.row2{
+    padding: 1rem;
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-color: rgba(0,0,0,.1);
+}
+.d-user{
+    padding: 0%;
+}
+.duser-w{
+    width: 100%;
+}
+.title-page {
+    color: #212529;
+    font-size: 1.2rem;
+}
+.navbar{
+    padding: 0%;
+    background: transparent;
+    text-align: right;
+}
+.nav-link{
+    padding: 0%;
+}
+.span-logo-1{
+    display: inline-block;
+    font-size: .875rem;
+    margin-right: 1rem;
+    padding-right: 1rem;
+    
+}
+.App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 30px;
+    width: 30px;
+    pointer-events: none;
+  }
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }

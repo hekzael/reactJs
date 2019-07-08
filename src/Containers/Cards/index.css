@@ -1,0 +1,21 @@
+.c-header{
+    font-size: 1rem;
+}
+.c-text{
+    font-size: 1rem;
+}
+.c-1{
+    width: 250px;
+    height: 250px;
+    margin: 0px;
+    z-index: 10;
+}
+.c-1:hover{
+    margin: -15px;
+    height: 265px;
+    width: 265px
+}
+.c-n-1{
+    width: 100%;
+    height: auto;
+}

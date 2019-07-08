@@ -1,0 +1,13 @@
+.agend{
+    display: flex;
+    justify-content: center;
+    max-height: 500px;
+}
+.scrolers{
+    overflow-y: auto;
+    height: 100%;
+    width: 100%;
+}
+.pointer:hover{
+    cursor: pointer;
+}

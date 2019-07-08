@@ -1,0 +1,313 @@
+{   
+	"users": [
+		{
+			"id" : 0,
+			"name" : "Eulis",
+			"lastName" : "Blanco",
+			"socialMedia" : {
+				"fb" : "@eulisblanco",
+				"ig" : "@blancoeulis",
+				"linkedin" : "@belinkedin",
+				"email" : "blancoeulis@gmail.com",
+				"phone" : 1165489872
+			},
+			"role" : "admin",
+			"pass" : 21202316,
+			"img" : {
+				"perfil" : "./img/man3.png",
+				"proyect1" : "./img/elect.jpg",
+				"proyect2" : "./img/desarrollo.png",
+				"proyect3" : "./img/prog.jpg"
+			},
+			"coments" : [
+				{
+					"id" : 0,
+					"userId" : 1,
+					"userName" : "Jose",
+					"text" : "Un gran programador, amigo y perona, siempre dispuesto a dar lo mejor de si mismo",
+					"date" : "01/02/1999"
+				},
+				{
+					"id" : 1,
+					"userId" : 2,
+					"userName" : "Alexys",
+					"text" : "Una gran persona, profecional en lo que hace, y dedicado a ello",
+					"date" : "03/02/1999"
+				}
+			],
+			"agend" : [
+				{
+					"id" : 0,
+					"name" : "Jose",
+					"phone" : 1165329875,
+					"address" : "av quinta de mayo 55"
+				},
+				{
+					"id" : 1,
+					"name" : "Alexis",
+					"phone" : 11668987987,
+					"address" : "av quinta de febrero 55"
+				},
+				{
+					"id" : 2,
+					"name" : "Alexander",
+					"phone" : 11653755,
+					"address" : "santa fe 654"
+				},
+				{
+					"id" : 3,
+					"name" : "Romina",
+					"phone" : 11611111187,
+					"address" : "av libertadores 55"
+				},
+				{
+					"id" : 4,
+					"name" : "Genesis",
+					"phone" : 1165329875,
+					"address" : "av quinta de mayo 55"
+				},
+				{
+					"id" : 5,
+					"name" : "Rossana",
+					"phone" : 1165329875,
+					"address" : "av quinta de mayo 55"
+				},
+				{
+					"id" : 6,
+					"name" : "Raquel",
+					"phone" : 1165329875,
+					"address" : "av quinta de mayo 55"
+				},
+				{
+					"id" : 7,
+					"name" : "Freddy",
+					"phone" : 1165329875,
+					"address" : "av quinta de mayo 55"
+				}
+			],
+			"notes" : [
+				{
+					"id" : 0,
+					"title" : "Mi primera nota",
+					"coment" : "Esta es mi primera nota"
+				},
+				{
+					"id" : 1,
+					"title" : "Mi segunda nota",
+					"coment" : "Esta es mi segunda nota"
+				}
+			]	
+		},
+		{
+			"id" : 1,
+			"name" : "Jose",
+			"lastname" : "Gonzalez",
+			"socialMedia" : {
+				"fb" : "@joseg",
+				"ig" : "@gonzalesjose",
+				"linkedin" : "@gjlinkedin",
+				"email" : "jose@gmail.com",
+				"phone" : 11653298755
+			},
+			"role" : "user",
+			"pass" : 21202316,
+			"img" : {
+				"perfil" : "./img/mam1.png",
+				"proyect1" : "./img/elect.jpg",
+				"proyect2" : "./img/desarrollo.png",
+				"proyect3" : "./img/prog.jpg"
+			},
+			"coments" : {
+				"1" : {
+					"idComent" : 0,
+					"userId" : 0,
+					"text" : "Un gran amigo",
+					"date" : "01/02/1999"
+				},
+				"2" : {
+					"idComent" : 1,
+					"userId" : 2,
+					"text" : "Un gran hermano",
+					"date" : "03/02/1999"
+				}
+			},
+			"agendas" : [
+				{
+					"amigos" : [
+						{
+							"id" : 0,
+							"name" : "Eulis",
+							"phone" : 1165329875,
+							"address" : "av quinta de mayo 55"
+						},
+						{
+							"id" : 1,
+							"name" : "Alexis",
+							"phone" : 11668987987,
+							"address" : "av quinta de febrero 55"
+						}
+					],
+					"doctores" : [
+						{
+							"id" : 0,
+							"name" : "Sonia",
+							"phone" : 11653755,
+							"address" : "santa fe 654"
+						},
+						{
+							"id" : 1,
+							"name" : "Tamara",
+							"phone" : 11611111187,
+							"address" : "av libertadores 55"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id" : 2,
+			"name" : "Alexys",
+			"lastname" : "Gonzalez",
+			"socialMedia" : {
+				"fb" : "@alexysg",
+				"ig" : "@gonzalesalexys",
+				"linkedin" : "@galinkedin",
+				"email" : "alexys@gmail.com",
+				"phone" : 11653298755
+			},
+			"role" : "user",
+			"pass" : 21202316,
+			"img" : {
+				"perfil" : "./img/mam2.png",
+				"proyect1" : "./img/elect.jpg",
+				"proyect2" : "./img/desarrollo.png",
+				"proyect3" : "./img/prog.jpg"
+			},
+			"coments" : {
+				"1" : {
+					"idComent" : 0,
+					"userId" : 0,
+					"text" : "Un gran amigo",
+					"date" : "01/02/1999"
+				},
+				"2" : {
+					"idComent" : 1,
+					"userId" : 1,
+					"text" : "Un gran hermano",
+					"date" : "03/02/1999"
+				}
+			},
+			"agendas" : [
+				{
+					"amigos" : [
+						{
+							"id" : 0,
+							"name" : "Eulis",
+							"phone" : 1165329875,
+							"address" : "av quinta de mayo 55"
+						},
+						{
+							"id" : 1,
+							"name" : "Jose",
+							"phone" : 11668987987,
+							"address" : "av quinta de febrero 55"
+						}
+					],
+					"doctores" : [
+						{
+							"id" : 0,
+							"name" : "Sonia",
+							"phone" : 11653755,
+							"address" : "santa fe 654"
+						},
+						{
+							"id" : 1,
+							"name" : "Tamara",
+							"phone" : 11611111187,
+							"address" : "av libertadores 55"
+						}
+					]
+				}
+			]
+		}
+	],
+	"cvUser" : [
+		{
+			"id" : 0,
+			"idUser" : 0,
+			"perfil" : {
+					"p1" : "Soy un desarrollador Web Full Stack, usando varias tecnologías de acuerdo al área de desarrollo, para lado del frontEnd ReactJs, Redux, JavaScript, JQuery, Bootstrap, CSS y HTML, del lado del servidor, BackEnd PHP, Mysql y SLIM.",
+					"p2" : "En cuanto a DevTools me familiarizo con Git, GitHub y Npm."
+			},
+			"contact" : {
+				"phone" : 1123887972,
+				"email" : "blancoeulis@gmail.com",
+				"gitHub" : "github.com/hekzael",
+				"address" : "Buenos Aires, Argentina"
+			},
+			"competens" : [
+				{"name" : "PHP","id" : 0, "level" : 43},
+				{"name" : "JavaScript","id" : 1, "level" : 37},
+				{"name" : "HTML","id" : 2, "level" : 40},
+				{"name" : "CSS","id" : 3, "level" : 35},
+				{"name" : "React JS","id" : 4, "level" : 37},
+				{"name" : "React-Redux","id" : 5, "level" : 35},
+				{"name" : "JQuery","id" : 6, "level" : 38},
+				{"name" : "MySql","id" : 7, "level" : 30},
+				{"name" : "Redux-Saga","id" : 8, "level" : 30},
+				{"name" : "Slim","id" : 9, "level" : 32},
+				{"name" : "Bootstrap","id" : 10, "level" : 47},
+				{"name" : "NPM","id" : 11, "level" : 35},
+				{"name" : "GitHub","id" : 12, "level" : 32}
+			],
+			"experience" : [
+				{
+					"id" : 0,
+					"cargo" : "DESARROLLLO Y SOPORTE",
+					"empresa" : "PLAY SECURITY SYSTEM",
+					"country" : "Argentina",
+					"startWork" : "9/2018",
+					"endWork" : "5/2019",
+					"describedly" : "Desarrollar e implementar mejoras a equipos electrónicos de manera de garantizar el óptimo funcionamiento de estos. Tratar con los clientes ofreciendo soporte técnico de los equipos."
+				},
+				{
+					"id" : 1,
+					"cargo" : "AYUDANTE DE LABORATORIO",
+					"empresa" : "Grupo Aereo de Caza N-16",
+					"country" : "Venezuela",
+					"startWork" : "1/2017",
+					"endWork" : "6/2017",
+					"describedly" : "Desarrollo de un prototipo para la automatización de un Acondicionador de baterías, desde el diseño del circuito electrónico hasta el armado físico del mismo. "	
+				},
+				{
+					"id" : 2,
+					"cargo" : "AYUDANTE DE LABORATORIO",
+					"empresa" : "CAVIM",
+					"country" : "Venezuela",
+					"startWork" : "1/2010",
+					"endWork" : "6/2010",
+					"describedly" : "Desarrollo de prototipos analógicos para maquina contadora de piezas."
+				}
+			],
+			"studios" : [
+				{
+					"id" : 0,
+					"title" : "INGENIERO ELECTRONICO",
+					"univercity" : "UNIVERSIDAD NACIONAL EXPERIMENTAL DE LA FUERZA ARMADA NACIONAL",
+					"ingreso" : "2010",
+					"egreso" : "2017",
+					"describedly" : "Programación en lenguaje C, C++, Java, diagrama escalera y bloques, diagramas de flujo. Programación de microcontroladores en C."
+				},
+				{
+					"id" : 1,
+					"title" : "TECNICO MEDIO EN ELECTRONICO",
+					"univercity" : "JACOB PEREZ CARBALLO 'FE Y ALEGRIA'",
+					"ingreso" : "2004",
+					"egreso" : "2010",
+					"describedly" : "Programación en lenguaje Ensamblador, interpretación de planos eléctricos."
+				}
+			]
+
+		}
+	]
+}

@@ -1,0 +1,24 @@
+.cv-logo{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+.col-1-bg{
+  background-color: royalblue;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+.col-2-bg{
+  background-color: aquamarine;
+}
+.width1{
+  width: 80%
+}
+.list-color-br{
+  background: transparent;
+  border: 0;
+  padding: 0;
+}
+div .progress{
+  width: 150px;
+}

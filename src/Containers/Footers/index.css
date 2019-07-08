@@ -1,0 +1,23 @@
+.fborder-top-color{
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-color: rgba(0,0,0,.1);
+}
+.fborder-bottom-img{
+    border-width: 0 0 10px;
+    border-bottom-style: solid;
+    border-image: linear-gradient(139deg, #fb8817, #ff4b01, #c12127, #e02aff) 3;
+}
+.ml-5p{
+    margin-left: 5%;
+}
+.fborder-bottom-color{
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-color: rgba(0,0,0,.1);
+}
+.shadow-top{
+    box-shadow: 0 -4px 13px -3px rgba(0, 0, 0, 0.10196);
+    flex: 0 0 auto;
+    z-index: 2;
+}

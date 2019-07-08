@@ -1,0 +1,10 @@
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #212529;
+}
+nav{
+    z-index: 5;
+    background: rgb(151, 142, 142);
+}
+nav a[class='.navbar-brand'] {
+    width: 300px;
+}

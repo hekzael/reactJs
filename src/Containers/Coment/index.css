@@ -1,0 +1,13 @@
+.coment{
+	padding: 2%;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-image: linear-gradient(139deg, #fb8817, #ff4b01, #c12127, #e02aff) 3;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.coment-2{
+	padding: 2%;
+  margin-left: 0px;
+  margin-right: 0px;
+}

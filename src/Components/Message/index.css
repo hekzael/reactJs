@@ -1,0 +1,21 @@
+.myCarousel2 .carousel-indicators li{
+    background-color: gray;
+    border-radius: 50%!important;
+    width: 10px;
+    height: 10px;
+}
+.myCarousel2 .carousel-indicators .active{
+    background-color: blue;
+}
+.myCarousel2 .carousel-control-next, .myCarousel2 .carousel-control-prev {
+    display: none;
+}
+.myCarousel2 .carousel-item{
+    margin-bottom: 15px;
+}
+.myCarousel2 .carousel-indicators{
+    margin-bottom: 0;
+}
+.myCarousel2 .carousel{
+    height: 160px;
+}
